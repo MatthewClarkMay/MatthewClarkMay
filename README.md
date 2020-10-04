@@ -5,7 +5,7 @@ An information security engineer who loves writing useful software.<br>
 <p>
   <a href="https://www.linkedin.com/in/matthewclarkmay/">
     <img src="https://img.shields.io/badge/matthewclarkmay?style=flat&logo=linkedin">
-  </a>
+  </a> &nbsp; 
 </p>
 
 Tech Preferences:
