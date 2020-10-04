@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi! 👋 I'm Matt May, an information security engineer who loves writing useful software.<br>
+📫Connect with me here:<br>
+<br>
+<p>
+  <a href="https://www.linkedin.com/in/matthewclarkmay/">
+    <img src="https://img.shields.io/badge/matthewclarkmay?style=flat&logo=linkedin">
+  </a> &nbsp; 
+</p>
 
-<!--
-**MatthewClarkMay/MatthewClarkMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src=https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg alt=amazonwebservices width="50" height="50"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="50" height="50"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg alt=golang width="50" height="50"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg alt=docker width="50" height="50"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="50" height="50"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg alt=postgresql width="50" height="50"/> 
+</p>
