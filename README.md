@@ -1,12 +1,5 @@
 Hi! 👋 I'm Matt May.<br>
 An information security engineer who loves writing useful software.<br>
-📫 Connect with me here:<br>
-<br>
-<p>
-  <a href="https://www.linkedin.com/in/matthewclarkmay/">
-    <img src="https://img.shields.io/badge/matthewclarkmay?style=flat&logo=linkedin">
-  </a> &nbsp; 
-</p>
 
 Tech Preferences:
 <p align="center">
